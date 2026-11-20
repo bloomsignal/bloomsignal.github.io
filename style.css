@@ -1,0 +1,15 @@
+/*This file is saves as style.css*/
+body {background-color: #f9f6f6;}
+/*Typography*/
+h1, h2 {color:#83538b;font-family: 'Courier New', Courier, monospace; font-size: 36px; padding: 8px}
+
+p {color:#1f1b1c; font-family: 'Times New Roman', Times, serif; font-size: 18px; padding: 12px}
+
+div {
+  border: 6px solid #4c5b53;
+  height: 100px;
+  margin: 20px;
+  padding: 20px;
+  width: 400px;
+  background-color: #a7b78e;
+}
